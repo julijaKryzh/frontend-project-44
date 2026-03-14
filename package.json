@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "First Project",
+  "homepage": "https://github.com/julijaKryzh/frontend-project-44#readme",
+  "bugs": {
+    "url": "https://github.com/julijaKryzh/frontend-project-44/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julijaKryzh/frontend-project-44.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "bin/brain-games.js",
+  "scripts": {
+    "test": "node bin/brain-games.js"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
+}
