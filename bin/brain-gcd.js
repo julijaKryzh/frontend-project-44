@@ -20,5 +20,4 @@ const playGcd = () => {
 
   runGame(description, getRoundData)
 }
-const description = 'Find the greatest common divisor of given numbers.'
 playGcd()
