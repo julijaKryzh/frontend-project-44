@@ -10,7 +10,7 @@ let successCount = 0
 const roundsToWin = 3
 
 for (let i = 0; i < roundsToWin; i++) {
-  const number = Math.floor(Math.random() * 100) // Генерация случайного числа
+  const number = Math.floor(Math.random() * 100)
   const correctAnswer = number % 2 === 0 ? 'yes' : 'no'
 
   console.log(`Question: ${number}`)
@@ -23,7 +23,7 @@ for (let i = 0; i < roundsToWin; i++) {
   else {
     console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
     console.log(`Let's try again, ${name}!`)
-    break // Прерываем игру при ошибке
+    break
   }
 }
 
