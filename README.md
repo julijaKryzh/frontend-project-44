@@ -9,7 +9,7 @@
 [![asciicast](https://asciinema.org/a/cV5om5eEjYt6krMw.svg)](https://asciinema.org/a/cV5om5eEjYt6krMw)
 
 ### Demo Brain-gcd
-[![asciicast](https://asciinema.org/a/iTqadafzjfdjXRDW.svg)](https://asciinema.org/a/iTqadafzjfdjXRDW)
+[![asciicast](https://asciinema.org/a/0pg3rzu2mB5G3037.svg)](https://asciinema.org/a/0pg3rzu2mB5G3037)
 
 ### Demo Brain-progression
 [![asciicast](https://asciinema.org/a/i5wPMShSxAa6FiLC.svg)](https://asciinema.org/a/i5wPMShSxAa6FiLC)
