@@ -13,3 +13,6 @@
 
 ### Demo Brain-progression
 [![asciicast](https://asciinema.org/a/i5wPMShSxAa6FiLC.svg)](https://asciinema.org/a/i5wPMShSxAa6FiLC)
+
+### Demo Brain-prime
+[![asciicast](https://asciinema.org/a/LtOIpTpdzXwaZDx9.svg)](https://asciinema.org/a/LtOIpTpdzXwaZDx9)
