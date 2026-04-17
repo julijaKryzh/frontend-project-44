@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { runGame } from '../index.js'
-import { getRandomInt } from '../getRandom.js'
+import { getRandomInt } from '../utils.js'
 
 const generateProgression = (start, step, length) => {
   const progression = []
