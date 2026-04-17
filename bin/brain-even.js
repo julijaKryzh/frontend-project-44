@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync'
+import { getRandomInt } from '../src/getRandom.js'
 
 console.log('Welcome to the Brain Games!')
 const name = readlineSync.question('May I have your name? ')
@@ -10,7 +11,7 @@ let successCount = 0
 const roundsToWin = 3
 
 for (let i = 0; i < roundsToWin; i++) {
-  const number = Math.floor(Math.random() * 100)
+  const number = getRandomInt(1, 100)
   const correctAnswer = number % 2 === 0 ? 'yes' : 'no'
 
   console.log(`Question: ${number}`)
