@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "bin": "^0.0.0",
+    "brain-gcd": "^1.0.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
