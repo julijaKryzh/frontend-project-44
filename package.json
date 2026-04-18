@@ -26,7 +26,7 @@
     "brain-prime": "bin/brain-prime.js"
   },
   "dependencies": {
-    "brain-gcd": "^1.0.0",
+    "bin": "^0.0.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
